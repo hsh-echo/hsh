@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>下载文件</title>
+</head>
+<body>
+<a href="download?filename=img.jpg">壁纸</a>
+<a href="download?filename=b.txt">文件</a>
+</body>
+</html>
